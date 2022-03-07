@@ -1,3 +1,7 @@
 # George Geils Portfolio V2
 
-## This is version two of my portfolio, made with Bootstrap.
+## Version 
+This is V2 of my portfolio which inclues Project 1, and two homework assignments. Made with Bootstrap.
+
+## Screenshot
+![Homepage](/images/screenshot.PNG)
